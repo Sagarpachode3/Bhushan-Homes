@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Bhushan Skyline",
+    "price": "3BHK 71 Lacs onwards",
+    "detail": "789, Bhushan Skyline, Kalyani Nagar, Pune, Maharashtra - 411006",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Bhushan Towers",
+    "price": "2BHK 50 Lacs onwards",
+    "detail": "456, Bhushan Towers, Baner, Pune, Maharashtra - 411045",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Pride Bhushan",
+    "price": "2BHK 49 Lacs onwards",
+    "detail": "Gate No - 123, Pride Bhushan, Moshi, Pune, Maharashtra - 412105",
+    "image": "./r1.png"
+  },
+
+  {
+    "name": "Bhushan Silverian",
+    "price": "3BHK 75 Lacs onwards",
+    "detail": "Gate No-321, Bhushan Selverian, PCMC, Pune, Maharashtra - 411057",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bhushan Enclave",
+    "price": "2BHK 60 Lacs onwards",
+    "detail": "654, Bhushan Enclave, Kothrud, Pune, Maharashtra - 411038",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sunshine Bhushan",
+    "price": "2BHK 53 Lacs onwards",
+    "detail": "987, Sunshine Bhushan, Aundh, Pune, Maharashtra - 411007",
+    "image": "./r3.png"
+  }
+]
